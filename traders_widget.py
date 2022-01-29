@@ -5,7 +5,7 @@ import datetime
 from datetime import timedelta  
 from datetime import timezone
 
-conn = psycopg2.connect("dbname='postgres' user='amedvedeva' host='135.181.61.116' password='JhnbgLrt@345nbvYukfbg^739cdsg'")
+conn = psycopg2.connect("dbname='postgres' user='' host='' password=''")
 
 start_date = datetime.datetime(2021, 4, 26)
 from datetime import datetime
